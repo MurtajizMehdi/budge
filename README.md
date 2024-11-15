@@ -1,9 +1,7 @@
-# Sprint 1: Planning & Designing
+# Sprint 1: Planning & Designing (2 weeks)
 Our first sprint will encompass the beginning stages of a project's creation; planning it out and creating rough drafts / mock up designs. This is also where we'll brainstorm ideas about the app's features and what it can and should do.
 
-### Duration: 2 weeks 
-
-### Sprint 1 designs and mock ups
+### Sprint 1 designs and mock ups (subject to change)
 
 #### Login Screen
 <img width="1470" alt="budge-login-screen" src="https://github.com/user-attachments/assets/90c7eb9b-2b84-43a9-93f7-ef562a689598">
