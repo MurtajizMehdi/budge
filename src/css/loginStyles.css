@@ -10,6 +10,10 @@ header {
     background-color: #bd7eed;
 }
 
+body header h3 {
+  text-align: center;
+}
+
 *,
 *:before,
 *:after {
@@ -120,7 +124,7 @@ form {
     color: #fff;
     margin: 0 1em;
     cursor: pointer;
-    &:hover {
+    &:hover 
       background-color: #50296e;
     }
   }
